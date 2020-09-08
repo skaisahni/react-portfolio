@@ -2,19 +2,19 @@
   "main": {
     "name": "Sikander Nishad",
     "occupation": "Web Developer Loves to Design And Build Websites ",
-    "description": " Developer | Graduate'20 | Java | Node.js | React.js | AWS | Python | GCP | .NET,  #Design </Code>",
-    "image": "IG_Sonny.jpeg",
+    "description": " Developer | Graduate'20 | Java | Node.js | React.js | AWS | Python | GCP | .NET,  #Design,</Code>",
+    "image": "sikander.jpg",
     "bio": "I'm a Coder at Heart with an entrepreneurial spirit, a knack for online security, and a passion for Travel. Currently Open for Software Development roles. ",
     "contactmessage": "Get in touch with me for further details",
     "email": "skaicybertron@gmail.com",
     "phone": "+353 089 491 3822",
     "address": {
       "street": "7 willow Crescent",
-      "city": "Athone",
+      "city": "Athlone",
       "state": "IreLand",
       "zip": "N37 P6W4"
     },
-    "website": "http://www.timbakerdev.com",
+
     "resumedownload": "https://drive.google.com/file/d/1qn2MJX4G5J6pWbv54XQs7PJlSjACI2BN/view?usp=sharing",
     "social": [
       {
@@ -98,85 +98,74 @@
       }
     ]
   },
-  "Extracurricular Activity": {
+  "Extra": {
     "Certification": [
       {
         "title": "JavaScript Algorithms and Data Structures ",
         "description":"implemenation of DSA in Javascript efficiently",
-        "image": "whatsapp-mern.jpeg",
+        "image": "dsacert.png",
         "url": "https://www.freecodecamp.org/certification/fcc77d06315-2612-421f-be4b-be680192063b/javascript-algorithms-and-data-structures"
       },
       {
         "title": "Front End Libraries ",
         "description": "React.js, Redux, Bootstrap, jQuery, Sass",
-        "image": "tiktok-mern.jpeg",
+        "image": "frontend.png",
         "url": "https://www.freecodecamp.org/certification/fcc77d06315-2612-421f-be4b-be680192063b/front-end-libraries"
       },
       {
         "title": "Data Visualization with D3.js",
         "description": "D3, JSON, XML, AJAX, API Handling.",
-        "image": "facebook-clone.png",
+        "image": "datavi.png",
         "url": "https://www.freecodecamp.org/certification/fcc77d06315-2612-421f-be4b-be680192063b/data-visualization"
       },
       {
         "title": "Data Analysis with Python ",
         "description": "NumPy, Pandas, Matplotlib, SciPy.",
-        "image": "airbnb-clone.jpeg",
+        "image": "dataanaly.png",
         "url": "https://www.freecodecamp.org/certification/fcc77d06315-2612-421f-be4b-be680192063b/data-analysis-with-python-v7"
       }
      
-    ],
-    "Virtual Experience":[
+    ]
+  },
+  "Virtual":{
+    "Virtual": [
       {
         "title": "Virtual Experience Program ",
-        "company":" Goldman Sachs",
+        "company": " Goldman Sachs",
         "description": "Completed task of Module Crack leaked password database",
-        "image": "whatsapp-mern.jpeg",
+        "image": "gold.jpg",
         "url": "https://drive.google.com/file/d/1z_hbyUMtJVTqcTydxGHI1dCp2jfb-wHC/view?usp=sharing"
       },
       {
         "title": "Virtual Experience Program ",
         "company": " JP Morgam & chase Co.",
         "description": "Completed the task of the following module Interface with a stock price data feed,Use JPMorgan Chase frameworks and tools,Display data visually for traders",
-        "image": "whatsapp-mern.jpeg",
+        "image": "jp.jpg",
         "url": "https://drive.google.com/file/d/1jIPtmZu82I3Wxn29N2duPReVg29EmxlT/view?usp=sharing"
       }
-
     ]
   },
   "portfolio": {
     "projects": [
       {
         "title": "Drum Beats App",
-        "image": "whatsapp-mern.jpeg",
+        "image": "drum.jpg",
         "url": "https://skairocknroll.netlify.app"
       },
       {
         "title": "Pomodoro Clock App",
-        "image": "tiktok-mern.jpeg",
+        "image": "pomodoro.jpg",
         "url": "https://skaipomodoroclock.netlify.app"
       },
       {
         "title": "Markdown Editor App: ",
-        "image": "facebook-clone.png",
+        "image": "mark.png",
         "url": "https://skaimarkdowneditor.netlify.app"
       },
       {
         "title": "Earth Heat Data Visualizer",
-        "image": "airbnb-clone.jpeg",
+        "image": "heat.png",
         "url": "https://heatdatavisualizer.netlify.app"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
