@@ -148,6 +148,11 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon-Clone",
+        "image": "amazon.jpg",
+        "url": "https://skai-48c23.web.app/"
+      },
+      {
         "title": "Drum Beats App",
         "image": "drum.jpg",
         "url": "https://skairocknroll.netlify.app"
