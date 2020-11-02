@@ -1,18 +1,15 @@
 {
   "main": {
     "name": "Sikander Nishad",
-    "occupation": "Web Developer Loves to Design And Build Websites ",
-    "description": " Developer | Graduate'20 | Java | Node.js | React.js | AWS | Python | GCP | .NET,  #Design,</Code>",
-    "image": "sikander.jpg",
-    "bio": "I'm a Coder at Heart with an entrepreneurial spirit, a knack for online security, and a passion for Travel. Currently Open for Software Development roles. ",
+    "occupation": "</> Software Developer Loves to Design And Build </>",
+    "description": " Developer | Graduate'20 | Java | Node.js | React.js | AWS | Python | GCP ,  #Design,</Code>",
+    "image": "Adjustments.jpg",
+    "bio": "I'm a Coder at Heart with an entrepreneurial spirit, a knack for online security, and a passion for Travel.Currently, I'm a Software Engineer in Ericsson Ireland. Skilled in Data structures, Algorithms, Linux, and Object-Oriented Programming (OOP), Blockchain, Artificial Intelligence. ",
     "contactmessage": "Get in touch with me for further details",
     "email": "skaicybertron@gmail.com",
-    "phone": "+353 089 491 3822",
     "address": {
-      "street": "7 willow Crescent",
       "city": "Athlone",
-      "state": "IreLand",
-      "zip": "N37 P6W4"
+      "state": "IreLand"
     },
 
     "resumedownload": "https://drive.google.com/file/d/1qn2MJX4G5J6pWbv54XQs7PJlSjACI2BN/view?usp=sharing",
@@ -52,6 +49,11 @@
       }
     ],
     "work": [
+       {
+        "company": "Ericsson Ireland",
+        "title": "Software Developer",
+        "years": "October 2020 -Present"
+      },
       {
         "company": "Travel D'globe",
         "title": "Software Developer",
@@ -78,7 +80,7 @@
       },
       {
         "name": "Java",
-        "level": "85%"
+        "level": "95%"
       },
       {
         "name": "HTML5",
